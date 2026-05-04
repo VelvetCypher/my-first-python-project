@@ -1,2 +1,4 @@
 # my-first-python-project
-This is a nickname generator.
+Hey  💌
+
+Download this file and run it using Python:
